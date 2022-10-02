@@ -1,5 +1,5 @@
-
 import 'package:flutter/material.dart';
+
 class NoteItem extends StatelessWidget {
   const NoteItem({Key? key}) : super(key: key);
 
@@ -27,7 +27,7 @@ class NoteItem extends StatelessWidget {
               child: Text(
                 'Build your career with tharwat samy',
                 style: TextStyle(
-                  fontSize: 20,
+                  fontSize: 18,
                   color: Colors.black.withOpacity(.4),
                 ),
               ),
