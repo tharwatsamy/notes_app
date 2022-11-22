@@ -20,4 +20,7 @@ class AddNoteCubit extends Cubit<AddNoteState> {
       AddNoteFailure(e.toString());
     }
   }
+
+
+  
 }
